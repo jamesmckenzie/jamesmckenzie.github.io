@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{132:function(n,t,e){"use strict";e.r(t);var o=e(0),a=e.n(o),i=e(135).a.h1.withConfig({displayName:"KnockoutText__H1",componentId:"sc-125xq73-0"})([""]);t.default=function(n){var t=n.children;return a.a.createElement(i,{style:{fontSize:"96px",fontFamily:"Lato"}},t)}}}]);
-//# sourceMappingURL=component---src-pages-components-knockout-text-js-ff40db0c82d6d2a6a5c4.js.map
